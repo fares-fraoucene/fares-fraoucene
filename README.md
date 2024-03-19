@@ -1,11 +1,10 @@
 # Salutation  👋
-## A propos de moi :
-### Je suis actuellement dans une formation spécialisé dans la cyber-sécurité 
-### J'ai pu apprendre les langues Python, Swift et Html/Css
-### Je suis actuellement en recherche d'alternance d'une durée de 2 ans
-### Je suis une personne qui a toujours baigné dans l'informatique depuis mon plus jeune âge
-### Je suis une personne serieuse, j'ai une bonne capacité d'adaptation et je suis constament dans l'apprentissage de nouvelle technologie
-### Mail : fares.fraoucene@gmail.com
+## A propos de moi 😄:
+### 🔭 Je suis actuellement dans une formation spécialisé dans la Cybersécurité 
+### 🌱 J'ai pu apprendre les langues Python, Swift et Html/CSS
+### 🤔 Je suis actuellement en recherche d'une alternance pour une durée de 2 ans | 2 semaine en entreprise et 1 semaine en formation
+### 💬 Je suis une personne qui a toujours baigné dans l'informatique depuis mon plus jeune âge, je fais preuve de rigueur lors de mes projets, j'ai une bonne capacité de réflexion, je sais faire preuve d'adaptabilité face aux différentes exigences d'une entreprise et je suis contamment dans l'apprentissage des nouvelles technologies
+### 📫 Mail : fares.fraoucene@gmail.com
 
 <!--
 **fares-fraoucene/fares-fraoucene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
