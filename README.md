@@ -1,5 +1,5 @@
-# Salutation  👋
-## A propos de moi 😄 :
+# Salutations  👨🏻‍💻
+## A propos de moi 🔎 :
 ### 🎓 Je suis actuellement dans une formation spécialisé dans la Cybersécurité 
 ### 🌱 J'ai pu apprendre les langues Python, Swift et Html/CSS
 ### 🤔 Je suis actuellement en recherche d'une alternance pour une durée de 2 ans | 2 semaine en entreprise et 1 semaine en formation
